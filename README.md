@@ -1,12 +1,4 @@
-# CS50-Final-Project 
-
-My Final Project for CS50 is a web application using Flask, Python ans SQL based in part
-on the web track's distribution code.
-The application is named CS50 TODO and it provides the user with the possibility to make
-a personal list of things to do.
-The list will be only accesible to the user who will be asked to register with  username
-and password.
-The user will be able to loginand logout.
-The user will be able to check and add new things to do to his personal list.
-
-For more information about the course visit https://cs50.harvard.edu/x/2020/
+# IMovie
+#### Video Demo:  <https://youtu.be/BnTv4zZQWKs>
+#### Description:
+it's a web-based application allow for you to register for an account and login to view a webpage showing a set of movies and shows which in cards having photo, title, rating and over view when you point at one you can scroll between them see the best movies to watch later or see trailers and scenes when you click Know More at one, then you can log out and if you forgot password you can reset it based to provid email.
